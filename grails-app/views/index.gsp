@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta name="layout" content="main"/>
-    <title>Welcome to Grails</title>
+    <title>Les bons indicateurs</title>
 </head>
 <body>
     <content tag="nav">

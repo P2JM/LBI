@@ -25,7 +25,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="/#">
-		    <asset:image src="grails.svg" alt="Grails Logo"/>
+		    <asset:image src="LBI2.png" alt="LBI Logo"/>
                 </a>
             </div>
             <div class="navbar-collapse collapse" aria-expanded="false" style="height: 0.8px;">
@@ -35,6 +35,7 @@
             </div>
         </div>
     </div>
+
 
     <g:layoutBody/>
 

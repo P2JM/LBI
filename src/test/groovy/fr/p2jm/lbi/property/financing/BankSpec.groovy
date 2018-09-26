@@ -1,5 +1,6 @@
 package fr.p2jm.lbi.property.financing
 
+import fr.p2jm.lbi.property.financing.credit.Bank
 import grails.testing.gorm.DomainUnitTest
 import spock.lang.Specification
 
